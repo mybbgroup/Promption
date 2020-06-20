@@ -1,6 +1,9 @@
 <?php
 /**
  *
+ * @category   MyBB Plugin
+ * @package    Promption
+ * @author     effone <me@eff.one>
  */
 
 if (!defined('IN_MYBB')) {
